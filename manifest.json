@@ -13,8 +13,8 @@
   "content_scripts": [
     {
       "matches": ["*://*.pricespy.co.nz/*"],
-      "js": ["ps.js"],
-      "css": ["ps.css"]
+      "js": ["jq.js","popper.js","bs.js" ,"ps.js"],
+      "css": ["bs.js","ps.css"]
     }
   ]
 
