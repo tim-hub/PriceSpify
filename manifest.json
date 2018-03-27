@@ -7,7 +7,7 @@
   "description": "Make Price Spy which is the comparing price website in New Zealand looks more beautiful, we are focusing on UI/UX improvments for Price Spy",
 
   "icons": {
-    "48": "icons/border-48.png"
+    "70": "ps.png"
   },
 
   "content_scripts": [
